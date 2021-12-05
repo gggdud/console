@@ -1,0 +1,12 @@
+D:\Real files\Projeckts\VisualStudio\forMoney\ArtD\Task_3(2_3)\Task_3(2_3)\bin\Debug\netcoreapp3.1\Task_3(2_3).exe
+D:\Real files\Projeckts\VisualStudio\forMoney\ArtD\Task_3(2_3)\Task_3(2_3)\bin\Debug\netcoreapp3.1\Task_3(2_3).deps.json
+D:\Real files\Projeckts\VisualStudio\forMoney\ArtD\Task_3(2_3)\Task_3(2_3)\bin\Debug\netcoreapp3.1\Task_3(2_3).runtimeconfig.json
+D:\Real files\Projeckts\VisualStudio\forMoney\ArtD\Task_3(2_3)\Task_3(2_3)\bin\Debug\netcoreapp3.1\Task_3(2_3).runtimeconfig.dev.json
+D:\Real files\Projeckts\VisualStudio\forMoney\ArtD\Task_3(2_3)\Task_3(2_3)\bin\Debug\netcoreapp3.1\Task_3(2_3).dll
+D:\Real files\Projeckts\VisualStudio\forMoney\ArtD\Task_3(2_3)\Task_3(2_3)\bin\Debug\netcoreapp3.1\Task_3(2_3).pdb
+D:\Real files\Projeckts\VisualStudio\forMoney\ArtD\Task_3(2_3)\Task_3(2_3)\obj\Debug\netcoreapp3.1\Task_3(2_3).AssemblyInfoInputs.cache
+D:\Real files\Projeckts\VisualStudio\forMoney\ArtD\Task_3(2_3)\Task_3(2_3)\obj\Debug\netcoreapp3.1\Task_3(2_3).AssemblyInfo.cs
+D:\Real files\Projeckts\VisualStudio\forMoney\ArtD\Task_3(2_3)\Task_3(2_3)\obj\Debug\netcoreapp3.1\Task_3(2_3).csproj.CoreCompileInputs.cache
+D:\Real files\Projeckts\VisualStudio\forMoney\ArtD\Task_3(2_3)\Task_3(2_3)\obj\Debug\netcoreapp3.1\Task_3(2_3).dll
+D:\Real files\Projeckts\VisualStudio\forMoney\ArtD\Task_3(2_3)\Task_3(2_3)\obj\Debug\netcoreapp3.1\Task_3(2_3).pdb
+D:\Real files\Projeckts\VisualStudio\forMoney\ArtD\Task_3(2_3)\Task_3(2_3)\obj\Debug\netcoreapp3.1\Task_3(2_3).genruntimeconfig.cache
