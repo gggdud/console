@@ -1,0 +1,6 @@
+C:\Users\mi035\source\repos\cZad_12\cZad_12\bin\Debug\cZad_12.exe.config
+C:\Users\mi035\source\repos\cZad_12\cZad_12\bin\Debug\cZad_12.exe
+C:\Users\mi035\source\repos\cZad_12\cZad_12\bin\Debug\cZad_12.pdb
+C:\Users\mi035\source\repos\cZad_12\cZad_12\obj\Debug\cZad_12.csproj.CoreCompileInputs.cache
+C:\Users\mi035\source\repos\cZad_12\cZad_12\obj\Debug\cZad_12.exe
+C:\Users\mi035\source\repos\cZad_12\cZad_12\obj\Debug\cZad_12.pdb
