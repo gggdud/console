@@ -1,0 +1,7 @@
+D:\Real files\Projeckts\VisualStudio\forMoney\ArtD\cZad_4_1\cZad_4_1\bin\Debug\cZad_4_1.exe.config
+D:\Real files\Projeckts\VisualStudio\forMoney\ArtD\cZad_4_1\cZad_4_1\bin\Debug\cZad_4_1.exe
+D:\Real files\Projeckts\VisualStudio\forMoney\ArtD\cZad_4_1\cZad_4_1\bin\Debug\cZad_4_1.pdb
+D:\Real files\Projeckts\VisualStudio\forMoney\ArtD\cZad_4_1\cZad_4_1\obj\Debug\cZad_4_1.csprojAssemblyReference.cache
+D:\Real files\Projeckts\VisualStudio\forMoney\ArtD\cZad_4_1\cZad_4_1\obj\Debug\cZad_4_1.csproj.CoreCompileInputs.cache
+D:\Real files\Projeckts\VisualStudio\forMoney\ArtD\cZad_4_1\cZad_4_1\obj\Debug\cZad_4_1.exe
+D:\Real files\Projeckts\VisualStudio\forMoney\ArtD\cZad_4_1\cZad_4_1\obj\Debug\cZad_4_1.pdb
